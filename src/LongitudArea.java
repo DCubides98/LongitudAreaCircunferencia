@@ -18,6 +18,7 @@ double longitud = 2 * 3.14159 * radio;
     System.out.println("La longitud de la circunferencia es: " + longitud);
     System.out.println("El area de la circunferencia es: " + area);
 
+scanner.close();
 
 }
 
